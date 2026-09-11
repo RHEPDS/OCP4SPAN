@@ -32,6 +32,6 @@ Completion of the following online training modules is recommended (available in
 
 ## Hands-On Lab
 
-g.demo.redhat.com/workshop/38xd8q
+https://catalog.demo.redhat.com/workshop/hcsgbx
 
 Password OpenShift
